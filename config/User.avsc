@@ -1,0 +1,10 @@
+{
+    "namespace": "com.giant.avro.model",
+    "type": "record",
+    "name": "User",
+    "fields": [
+        {"name": "name", "type": "string"},
+        {"name": "number",  "type": ["int", "null"]},
+        {"name": "color", "type": ["string", "null"]}
+    ]
+}
