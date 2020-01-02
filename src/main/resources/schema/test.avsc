@@ -1,0 +1,30 @@
+{
+  "namespace": "com.giant.avro.schema",
+  "type": "record",
+  "name": "Test",
+  "version": "1",
+  "fields": [
+    {"name": "id", "type": "int"},
+    {"name": "date_time", "type": "string"},
+    {"name": "site_name", "type": "int"},
+    {"name": "posa_continent", "type": "int"},
+    {"name": "user_location_country", "type": "int"},
+    {"name": "user_location_region", "type": "int"},
+    {"name": "user_location_city", "type": "int"},
+    {"name": "orig_destination_distance", "type": "string"},
+    {"name": "user_id", "type": "int"},
+    {"name": "is_mobile", "type": "int"},
+    {"name": "is_package", "type": "int"},
+    {"name": "channel", "type": "int"},
+    {"name": "srch_ci", "type": "string"},
+    {"name": "srch_co", "type": "string"},
+    {"name": "srch_adults_cnt", "type": "int"},
+    {"name": "srch_children_cnt", "type": "int"},
+    {"name": "srch_rm_cnt", "type": "int"},
+    {"name": "srch_destination_id", "type": "int"},
+    {"name": "srch_destination_type_id", "type": "int"},
+    {"name": "hotel_continent", "type": "int"},
+    {"name": "hotel_country", "type": "int"},
+    {"name": "hotel_market", "type": "int"}
+  ]
+}

@@ -1,0 +1,4 @@
+id,date_time,site_name,posa_continent,user_location_country,user_location_region,user_location_city,orig_destination_distance,user_id,is_mobile,is_package,channel,srch_ci,srch_co,srch_adults_cnt,srch_children_cnt,srch_rm_cnt,srch_destination_id,srch_destination_type_id,hotel_continent,hotel_country,hotel_market
+0,2015-09-03 17:09:54,2,3,66,174,37449,5539.0567,1,1,0,3,2016-05-19,2016-05-23,2,0,1,12243,6,6,204,27
+11,2015-08-10 13:35:02,11,3,214,120,44496,,56,0,0,10,2015-08-18,2015-08-21,2,1,1,20813,6,6,70,312
+77497,2015-12-29 08:57:05,2,3,66,448,53078,806.3911,257983,0,1,0,,,2,0,1,11353,1,2,50,699

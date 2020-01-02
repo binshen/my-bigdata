@@ -1,0 +1,10 @@
+{
+  "namespace": "com.giant.avro.schema",
+  "type": "record",
+  "name": "SampleSubmission",
+  "version": "1",
+  "fields": [
+    {"name": "id", "type": "int"},
+    {"name": "hotel_cluster", "type": "string"}
+  ]
+}
