@@ -19,6 +19,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
 
+// https://www.jianshu.com/p/c358a30e326d
 public class TestParquet {
 
     static Logger logger = Logger.getLogger(TestParquet.class);
